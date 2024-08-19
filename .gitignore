@@ -1,0 +1,4 @@
+.ipynb_checkpoints/*
+data/n2c2/*
+tmp
+.idea
