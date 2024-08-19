@@ -1,0 +1,7 @@
+medspacy=1.2.0
+git+https://github.com/medspacy/medspacy_io.git
+sentence-transformers
+loguru
+sklearn-crfsuite
+pandas
+#conda install -c pytorch faiss-cpu=1.8.0
