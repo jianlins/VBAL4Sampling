@@ -1,5 +1,5 @@
 # VBAL4Sampling
-Enhancing Active Learning for Annotation Sampling over Large-Scale Corpus Via Vector-Based Indexing. A Placeholder Repository for AMIA 2024 Submission. The code will be released upon acceptance.
+Enhancing Active Learning for Annotation Sampling over Large-Scale Corpus Via Vector-Based Indexing. Our poster manuscript has been accepted [@AMIA 2024](https://amia.org/education-events/amia-2024-annual-symposium) 
 
 inside the notebooks folder:
 [gpu01_CleanupBratAnnotation.ipynb](notebooks%2Fgpu01_CleanupBratAnnotation.ipynb) is used to clean the original annotations and build vector indexes.
